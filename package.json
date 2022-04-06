@@ -1,14 +1,20 @@
 {
-  "name": "react-native-foreground-service",
-  "version": "3.0.3",
+  "name": "@siro-ai/react-native-foreground-service",
+  "version": "3.0.2",
   "description": "React native module to start foreground service on android, updated to handle Android targetSdk 31",
   "main": "index.js",
   "scripts": {
-    "pub": "npm version patch && npm publish"
+    "pub": "npm publish"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/voximplant/react-native-foreground-service.git"
+    "url": "git+https://github.com/Siro-ai/react-native-foreground-service.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/Siro-ai"
+  },
+  "bugs": {
+    "url": "https://github.com/Siro-ai/react-native-foreground-service/issues"
   },
   "keywords": [
     "react-native",
