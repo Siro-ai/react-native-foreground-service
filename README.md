@@ -11,7 +11,7 @@ See [the Android official documentation](https://developer.android.com/guide/com
 
 ## Getting started 
 
-`$ npm install @voximplant/react-native-foreground-service --save`
+`$ npm install @siro-ai/react-native-foreground-service --save`
 
 ### Automatic installation (Android only)
 
