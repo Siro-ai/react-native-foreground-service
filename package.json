@@ -1,6 +1,6 @@
 {
   "name": "@siro-ai/react-native-foreground-service",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "React native module to start foreground service on android, updated to handle Android targetSdk 31",
   "main": "index.js",
   "scripts": {
