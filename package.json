@@ -4,6 +4,7 @@
   "description": "React native module to start foreground service on android, updated to handle Android targetSdk 31",
   "main": "index.js",
   "scripts": {
+    "pub": "npm version patch && npm publish"
   },
   "repository": {
     "type": "git",
